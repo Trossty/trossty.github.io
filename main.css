@@ -150,4 +150,27 @@ a{
     margin-top: 15rem;
   }
 
+  .box{
+    width: 300px;
+    height: 800px;
+    margin: auto;
+    margin-top: 30rem;
+    position: relative;    
+  }
+
+  .box-text {
+    opacity: 1;
+    position: relative;
+    padding: 10px;
+    font-size: x-large;
+  
+    display: flex;
+    flex-direction: row;
+  }
+
+  .box-img {
+    width: 220px;
+    height: 250px;
+  }
+
 } 
